@@ -10,11 +10,6 @@ pip install numpy matplotlib
 python interpolation.py
 ```
 
-## Results
-
-![e^x](images/runge_exp.png)
-![1/(1+25x^2)](images/runge_rational.png)
-
 ## Files
 
 - `interpolation.py` – the code
